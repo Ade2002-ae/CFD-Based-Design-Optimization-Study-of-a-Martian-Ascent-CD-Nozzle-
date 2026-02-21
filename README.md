@@ -71,16 +71,18 @@ Non-physical extremes filtered out
 Optimal operating point identified from trend behavior
 
 Final Prediction:
-Optimal chamber pressure ≈ 2.75 MPa
+Optimal chamber pressure ≈ 2.75 MPa (for air as working fluid only)
 This value provides efficient thrust generation with stable ascent margins, without unnecessary system penalties.
 
 Key Results 
 Fully expanded supersonic flow on Mars (Pe ≫ Pa)
 Exit Mach number ≈ 3
 Two-nozzle configuration satisfies ascent thrust requirements
-Optimal chamber pressure identified using regression, not guesswork
+Optimal chamber pressure identified using regression
 Clear efficiency trends established across pressure sweep
 All plots, contours, and processed results are included in this repository.
+
+NOTE: For a comprehensive study on the ascent properties, air has been used as a working fluid for the initial analysis. Eventual studies carried out actual propellant as the working fluid, which shall be considered later.
 
 Data & Access Policy (Important)
 To preserve originality and academic/professional integrity, the following are intentionally not shared publicly:
@@ -114,7 +116,7 @@ Achieve stable, repeatable ascent performance
 
 Disclaimer
 This is a conceptual engineering project intended for learning, analysis, and demonstration of capability.
-It is not a flight-certified design.
+It is not a flight-certified design, nor a research work proving the usability.
 
 Closing Note
 Designing for Earth is easy.
